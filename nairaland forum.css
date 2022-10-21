@@ -1,0 +1,35 @@
+h1{color:green;
+            
+}
+h2{
+    color:rgb(32, 22, 22);
+}
+#container{
+text-align:center;
+
+}
+#play{
+    color:blue;
+    font-size: 15px;
+}
+#run{
+    color:blue;
+    border-style:solid;
+    border-radius: 40px;
+    border-width:0px;
+    background-color: rgb(184, 179, 179);
+}
+#man{border-style:solid;
+    border-radius: 40px;
+    border-width:0px;
+    background-color: rgb(184, 179, 179);
+}
+#main{
+    border-style:solid;
+    border-radius: 40px;
+    border-width:0px;
+    background-color: rgb(184, 179, 179);
+}
+h2{
+    background-color: rgb(226, 220, 220);
+}
